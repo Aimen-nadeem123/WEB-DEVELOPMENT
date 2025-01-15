@@ -1,10 +1,10 @@
-Web Development Projects by Aimen Nadeem
-Welcome to my Web Development repository! This repository contains the tasks and projects that I completed as part of my Web Development course at Samz Technologies. The final project in this repository is a fully functional Airline Website built using React.
+Web Development Tasks by Aimen Nadeem
+Welcome to my Web Development repository! This repository contains the tasks and project that I completed as part of my Web Development course at Samz Technologies. The final project in this repository is a fully functional Airline Website.
 
 🚀 About This Repository
 In this repository, you’ll find:
 
-Course Tasks: A collection of smaller projects and exercises I completed throughout the Web Development course. These tasks cover the core concepts and technologies I learned, including HTML, CSS, JavaScript, React, and more.
+Course Tasks: A collection of smaller projects and exercises I completed throughout the Web Development course. These tasks cover the core concepts and technologies I learned, including HTML, CSS, JavaScript, React.
 Final Project - Airline Website: My final project where I applied everything I learned to build a dynamic, user-friendly Airline Website. This project utilizes React for the front end, with features like:
 Flight Search and Booking System
 Flight Listings
